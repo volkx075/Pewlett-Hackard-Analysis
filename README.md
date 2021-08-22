@@ -15,3 +15,4 @@ Here is another chart of the mentorship eligibility employees:
 This is an easier chart to read to see what employees are eligible for the mentorship program and what their titles are.\
 Here is a table that shows the distribution of titles for those who are eligible for the mentor ship program:
 ![Mentorship Titles](Images/mentorship_titles.PNG)\
+This table shows that the majority of employees eligible for the mentorship program are Senior Staffers and Engineers. There are only 169 Senior Engineers. We would probably need to use all of the Senior Engineers to help mentor people to fill all the Senior Engineers that will be retiring.
