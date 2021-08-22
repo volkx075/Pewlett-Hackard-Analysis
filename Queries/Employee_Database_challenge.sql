@@ -42,4 +42,12 @@ AND (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 ORDER BY e.emp_no ASC;
 
 SELECT * FROM mentorship_eligibilty;
-	
+
+-- Use COUNT with GROUP BY and ORDER BY to show the number of mentorship employees per titles
+SELECT COUNT(title), title
+INTO mentorship_titles
+FROM mentorship_eligibilty
+GROUP BY title
+ORDER BY count DESC;
+
+SELECT * FROM mentorship_titles;
