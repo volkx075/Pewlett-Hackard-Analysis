@@ -9,9 +9,9 @@ Bobby's manager is now requesting Bobby to do two more tasks with the data and B
 - In the link below, it's a table showing the employees that are eligible for the mentorship program. These employees were born in 1965. Since those that are retiring soon were born between 1952 and 1955, we need a group of people at an age that have experience but also be around for a while longer. Therefore, employees born in 1965 are the perfect candidates to help mentor people to fill the soon to be open positions.
 Mentorship Eligibility Table: ![Mentorship Eligibility](Images/mentorship_eligibilty.PNG)
 ## Summary
-After the "silver tsunami" hits, there will be many roles that will need to be filled. The majority of roles will be senior roles as they make up 63.8% of those retiring. Our focus should be to try and fill these positions first. Then go to the non-senior positions and fill those. Based upon the head (first 9 rows of the mentorship eligibility table), we can see over half have senior positions. If it that statement continues to be true for the entire chart, then we have enough qualified and retirement-ready employees in each department to mentor the next generation.\
+After the "silver tsunami" hits, there will be many roles that will need to be filled. The majority of roles will be senior roles as they make up 63.8% of those retiring. Our focus should be to try and fill these positions first. Then go to the non-senior positions and fill those. Based upon the head (first 9 rows of the mentorship eligibility table), we can see over half have senior positions. If it that statement continues to be true for the entire chart, then we have enough qualified and retirement-ready employees in each department to mentor the next generation. Let's see if that holds true by creating two new tables.\
 Here is another chart of the mentorship eligibility employees:
 ![Mentorship Employees](Images/mentorship_emp.PNG)\
 This is an easier chart to read to see what employees are eligible for the mentorship program and what their titles are.\
-Here is a chart that shows the distribution of titles for those who are eligible for the mentor ship program:
+Here is a table that shows the distribution of titles for those who are eligible for the mentor ship program:
 ![Mentorship Titles](Images/mentorship_titles.PNG)\
