@@ -43,6 +43,14 @@ ORDER BY e.emp_no ASC;
 
 SELECT * FROM mentorship_eligibilty;
 
+-- Create a simpler table from the mentorship eligibilty table
+SELECT emp_no, first_name, last_name, title
+INTO mentorship_emp
+FROM mentorship_eligibilty
+ORDER BY emp_no;
+
+SELECT * FROM mentorship_emp;
+
 -- Use COUNT with GROUP BY and ORDER BY to show the number of mentorship employees per titles
 SELECT COUNT(title), title
 INTO mentorship_titles
